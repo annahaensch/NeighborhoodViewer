@@ -4,7 +4,7 @@ Boston and its many neighborhoods are home to a vibrant selection of bakeries an
 
 # Business Problem
 
-The goal of this data analysis to determine which neighborhood offers the best business opportunity for a new coffee shop,bakery, and co-working space. This will be done by analyzing the existing venues in and around Boston to determine two factors.  First, to determine neighborhoods where there are a large numher of coffee shop and coffee shop type venues.  Second, to determine neighborhoods currently supporting few coffee shops whose overall character of venus is similar to neighborhoods with many coffee shops.  
+The goal of this data analysis to determine which neighborhood in the Boston/Cambridge, MA region offers the best business opportunity for a new coffee shop,bakery, and co-working space. This will be done by analyzing the existing venues in and around Boston to determine two factors.  First, to determine neighborhoods supporting a large numher of coffee shop and coffee shop type venues.  Second, to determine neighborhoods currently supporting few coffee shops whose overall character of venus is similar to neighborhoods with many coffee shops.  
 
 # Data
 
