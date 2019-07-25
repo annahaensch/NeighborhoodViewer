@@ -1,12 +1,14 @@
-# Introduction
+# Neighborhood Analysis of Coffee Shops in Boston, MA
+
+## Introduction
 
 Boston and its many neighborhoods are home to a vibrant selection of bakeries and coffee shops.  Over the years, chain franchises like Dunkin Donuts and Starbucks have gained a strong foothold in the region, as well as many independent teahouses.  Such locales typically serve coffee and tea drinks, as well as light fare and baked goods and cafes.  Some identify as bakeries, others as cafes.  More recently there is an influx of coffee shops serving high-end artisan roasted coffee in a comfortable space conducive to co-working.  Given the large student body, and increasingly remote professional work force in many parts of Boston, such businesses have high potential for success if situated correctly.  
 
-# Business Problem
+## Business Problem
 
 The goal of this data analysis to determine which neighborhood in the Boston/Cambridge, MA region offers the best business opportunity for a new coffee shop,bakery, and co-working space. This will be done by analyzing the existing venues in and around Boston to determine two factors.  First, to determine neighborhoods supporting a large numher of coffee shop and coffee shop type venues.  Second, to determine neighborhoods currently supporting few coffee shops whose overall character of venus is similar to neighborhoods with many coffee shops.  The *target audience* is a group of investors interested in opening a coffee shop.
 
-# Data
+## Data
 
 Boston/Cambridge and its neighborhoods will be defined by zip codes, neighborhood names, and associated latitude/longitude values.  The neighborhood and zip code data for Boston neighborhoods is obtained by scraping the HTML from a [Boston Globe website](http://archive.boston.com/news/local/articles/2007/04/15/sixfigurezipcodes_city/) and constructing data tables using BeautifulSoup.  Zip code and neighborhood data for Cambridge is obtaied through a [tool built by Randy Majors](https://www.randymajors.com/p/zipcodegmap.html) which uses the Google Maps API. The GIS data for these neighborhoods is obtained through a [repository maintained by GitHub user Eric Hurst](https://gist.githubusercontent.com/erichurst/7882666/raw/5bdc46db47d9515269ab12ed6fb2850377fd869e/US%2520Zip%2520Codes%2520from%25202013%2520Government%2520Data).  Data from the two sources is merged into one pandas dataframe containing all relevent 'Zip_Code,' 'Name,' 'Latitude,' and 'Longitude' values for 34 Boston and Cambridge neighborhoods. 
 
