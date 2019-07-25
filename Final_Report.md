@@ -1,6 +1,10 @@
-# Introduction & Business Problem
+# Introduction
 
-Boston and its many neighborhoods are home to a vibrant selection of bakeries and coffee shops.  Over the years, chain franchises like Dunkin Donuts and Starbucks have gained a strong foothold in the region, as well as many independent teahouses.  Such locales typically serve coffee and tea drinks, as well as light fare and baked goods and cafes.  Some identify as bakeries, others as cafes.  More recently there is an influx of coffee shops serving high-end artisan roasted coffee in a comfortable space conducive to co-working.  Given the large student body, and increasingly remote professional work force in many parts of Boston, such businesses have high potential for success if situated correctly.  I am preparing this data analysis to determine which neighborhood offers the best business opportunity for a new coffee shop,bakery, and co-working space. 
+Boston and its many neighborhoods are home to a vibrant selection of bakeries and coffee shops.  Over the years, chain franchises like Dunkin Donuts and Starbucks have gained a strong foothold in the region, as well as many independent teahouses.  Such locales typically serve coffee and tea drinks, as well as light fare and baked goods and cafes.  Some identify as bakeries, others as cafes.  More recently there is an influx of coffee shops serving high-end artisan roasted coffee in a comfortable space conducive to co-working.  Given the large student body, and increasingly remote professional work force in many parts of Boston, such businesses have high potential for success if situated correctly.  
+
+# Business Problem
+
+The goal of this data analysis to determine which neighborhood offers the best business opportunity for a new coffee shop,bakery, and co-working space. This will be done by analyzing the existing venues in and around Boston to determine two factors.  First, to determine neighborhoods where there are a large numher of coffee shop and coffee shop type venues.  Second, to determine neighborhoods currently supporting few coffee shops whose overall character of venus is similar to neighborhoods with many coffee shops.  
 
 # Data
 
