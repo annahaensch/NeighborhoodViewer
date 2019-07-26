@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Boston Skyline from Boston's Back Bay Neighborhood.  Image courtesty of [Robbie Shade via FlickrCC](https://www.flickr.com/photos/rjshade/10163674693). 
+Boston Skyline from Boston's Back Bay Neighborhood.  Image courtesty of <a href = https://www.flickr.com/photos/rjshade/10163674693>Robbie Shade via FlickrCC</a>. 
 <p>  
 
 
@@ -54,7 +54,7 @@ Based on this analsys, Back Bay is a strong candidate for a coffee shop.  It cur
 </p>
 
 <p align="center">
-Shops in Boston's Back Bay neighborhood.  Image via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:15-37_Newbury_Street_near_the_Public_Garden,_Boston,_Massachusetts.jpg). 
+Shops in Boston's Back Bay neighborhood.  Image via <a href = https://commons.wikimedia.org/wiki/File:15-37_Newbury_Street_near_the_Public_Garden,_Boston,_Massachusetts.jpg>Wikimedia Commons</a>. 
 <p>  
 
 
