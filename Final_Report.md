@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Boston Skyline from Boston's Back Bay Neighborhood.  Image courtesty of <a href = https://www.flickr.com/photos/rjshade/10163674693>Robbie Shade via FlickrCC</a>. 
+Boston skyline viewed from Boston's Back Bay neighborhood.  Image courtesty of <a href = https://www.flickr.com/photos/rjshade/10163674693>Robbie Shade via FlickrCC</a>. 
 <p>  
 
 
@@ -35,7 +35,7 @@ From the first bar chart we can see that Chinatown / Tufts - New England Medical
 
 ![](https://raw.githubusercontent.com/annahaensch/NeighborhoodViewer/master/barh1.png)
 
-To further refine our analysis, we consdier the bar chart below which only counts those venues in the category 'Coffee Shop.'  From this we see that Prudential, Chinatown / Tufts - New England Medical Cener, Beacon Hill all have 4 or more coffee shows (in addition, West End / Back of the Hill, Fenway / East Fens / Longwood, East Cambridge / Wellington - Harrington, and Brighton are in the next tier with 3 each), telling a slighly different story than the first graph.  In particular, North End is saturated with coffee shop adjacent business, but not necessarily with coffee shops themselves. 
+To further refine our analysis, we consider the bar chart below which only counts those venues in the category 'Coffee Shop.'  From this we see that Prudential, Chinatown / Tufts - New England Medical Cener, Beacon Hill all have 4 or more coffee shows (in addition, West End / Back of the Hill, Fenway / East Fens / Longwood, East Cambridge / Wellington - Harrington, and Brighton are in the next tier with 3 each), telling a slighly different story than the first graph.  In particular, North End is saturated with coffee shop adjacent business, but not necessarily with coffee shops themselves. 
 
 ![](https://raw.githubusercontent.com/annahaensch/NeighborhoodViewer/master/barh2.png)
 
