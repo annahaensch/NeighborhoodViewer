@@ -54,7 +54,7 @@ Based on this analsys, Back Bay is a strong candidate for a coffee shop.  It cur
 </p>
 
 <p align="center">
-Shops in Boston's Back Bay neighborhood.  Image via (Wikimedia Commons)[https://commons.wikimedia.org/wiki/File:15-37_Newbury_Street_near_the_Public_Garden,_Boston,_Massachusetts.jpg]. 
+Shops in Boston's Back Bay neighborhood.  Image via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:15-37_Newbury_Street_near_the_Public_Garden,_Boston,_Massachusetts.jpg). 
 <p>  
 
 
