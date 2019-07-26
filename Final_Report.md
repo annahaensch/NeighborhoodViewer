@@ -1,5 +1,16 @@
 # Neighborhood Analysis of Coffee Shops in Boston, MA
 
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/annahaensch/NeighborhoodViewer/master/Skyline.jpg">
+</p>
+
+<p align="center">
+Boston Skyline from Boston's Back Bay Neighborhood.  Image courtesty of [Robbie Shade via FlickrCC](https://www.flickr.com/photos/rjshade/10163674693). 
+<p>  
+
+
+
+
 ## Introduction
 
 Boston and its many neighborhoods are home to a vibrant selection of bakeries and coffee shops.  Over the years, chain franchises like Dunkin Donuts and Starbucks have gained a strong foothold in the region, as well as many independent teahouses.  Such locales typically serve coffee and tea drinks, as well as light fare and baked goods and cafes.  Some identify as bakeries, others as cafes.  More recently there is an influx of coffee shops serving high-end artisan roasted coffee in a comfortable space conducive to co-working.  Given the large student body, and increasingly remote professional work force in many parts of Boston, such businesses have high potential for success if situated correctly.  
@@ -37,6 +48,15 @@ The particular character of each of the neighrbood clusters was then analyzed by
 # Discussion
 
 Based on this analsys, Back Bay is a strong candidate for a coffee shop.  It currently only has 2 coffee shops, and only 9 coffee shop adjacent businesses.  In addition, it is most similar in character to the neighborhoods where coffee shops and coffee shop adjacent businesses are very popular.  This suggests some similalrity in locality and consumer tastes in the area.  Another neighborhood that might be strong candidates is Markets / Inner Harbor due to its clustering near the North End neighborhood; this neighborhood might warrant further analsysis. 
+
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/annahaensch/NeighborhoodViewer/master/BackBay.jpg">
+</p>
+
+<p align="center">
+Shops in Boston's Back Bay neighborhood.  Image via (Wikimedia Commons)[https://commons.wikimedia.org/wiki/File:15-37_Newbury_Street_near_the_Public_Garden,_Boston,_Massachusetts.jpg]. 
+<p>  
+
 
 # Conclusion
 
